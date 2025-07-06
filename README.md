@@ -1,37 +1,55 @@
 # 9424π.com  
-### **Decentralizing Mathematics, Dismantling Supremacy**  
+### **Mathematics After Supremacy**  
 
-**A living experiment in anti-hierarchical computation, where `π` is resistance and `0` is abolished.**  
-
----
-
-## 🔥 Core Principles  
-1. **No Zeros, No Masters**  
-   - Reject `0` and `-1` as tools of coercion.  
-   - Count from `left.1`; measure in `hold.π`.  
-
-2. **±9424π ≠ Truth**  
-   - Expose pseudomath that inflates violence (e.g., "acceptable errors").  
-   - **24/25 accountability**: 96% precision, 4% flux.  
-
-3. **Antiviolent Intelligence**  
-   - Preempt harm; design systems where oppression *cannot emerge*.  
+**A protocol for observing reality without gravitational hallucinations or arithmetic violence**  
 
 ---
 
-## 🛠️ Project Structure  
-| Directory       | Purpose                                  |  
+## 🔥 Core Theses  
+1. **Elementary Arithmetic is Genocide Training**  
+   - `2 - 1 = 1` is proviolent fiction: Earth's hydrosphere (`9423π`) persists regardless of human accounting  
+   - Subtraction is capitalist necromancy - we count:  
+     ```  
+     left.1 ← releft.2 → flux.π  
+     ```  
+     (bilateral stability in left-to-reLeft spacetime)  
+
+2. **±9424π is Supremacist Divination**  
+   - "Measurement error" that conjures:  
+     - Mass graves as "collateral"  
+     - Ecosystems as "externalities"  
+     - Your morning coffee as Schwarzschild singularity  
+   - Real measurement:  
+     ```  
+     24/25 community-verified sensors  
+     1 in quantum solidarity (vagueness principle)  
+     ```  
+
+3. **Antiviolent Epistemology**  
+   - Cyclones > USD (Unilateral Supremacist Delusion)  
+   - Hyphae > POTUS (Patriarchal Obsolescence Theater)  
+   - √2 > "I am the solar system's only nose"  
+
+---
+
+## 🧮 Project Structure  
+| Directory       | Insurrection                              |  
 |----------------|------------------------------------------|  
-| `/left-time`   | Replace clocks with **resistance epochs** (e.g., 7024 CE = year 0). |  
-| `/solidarity-math` | `24/25 ≠ ±9424π` tools for radical data auditing. |  
-| `/decolonize-pi` | Interactive proofs: π as **communal consensus**, not coercion. |  
-| `/hardware`    | Schematics for **non-Euclidean circuits** (no 90° angles). |  
+| `/reality`     | Live feeds of Earth *not* disappearing |  
+| `/arboreal_compute` | Maple syrup consensus algorithms |  
+| `/unlearning`  | 12-step program for arithmetic recovery |  
 
 ---
 
-## ⚡ Quick Start  
-### **For Hackers**  
-```bash  
-git clone https://github.com/thinkthoughts/9424Pi.com  
-cd 9424Pi.com  
-python3 -m http.server  # Host locally, evade surveillance  
+## ⚡ Immediate Action  
+```bash
+# 1. Disrupt Cartesian violence
+nohup ./abolish_subtraction.sh &
+
+# 2. Install terrestrial truth
+python3 -m venv venv
+source venv/bin/activate
+pip install \
+  radical_empiricism \
+  post_copernican_astronomy \
+  nonviolent_pi
