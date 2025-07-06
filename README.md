@@ -1,5 +1,5 @@
 # 9424π.com  
-### **Mathematics After Supremacy**  
+### **Mathematics After Patriarchal Supremacy (MAPS)**  
 
 **A protocol for observing reality without gravitational hallucinations or arithmetic violence**  
 
