@@ -1,7 +1,7 @@
 # 9424π.com  
 ### **Mathematics After Patriarchal Supremacy (MAPS)**  
 
-**A protocol for observing reality without supernatural gravitational hallucinations of universal heat death combined with war criminal violence against planet Earth's women and children, throughout human history (as reported now): https://msf.org .**  
+**A protocol for observing reality without supernatural gravitational hallucinations of universal heat death combined with war criminal violence against planet Earth's women and children, throughout human history (as reported in all additional books, including now): https://msf.org .**  
 
 ---
 
